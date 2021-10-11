@@ -1,0 +1,17 @@
+.addToCart ,.heart{
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: 600;
+  transition: .4s;
+  color: wheat;
+}
+.addToCart:hover,.heart:hover{
+  color: rgb(193, 219, 42);
+  transition: .4s;
+}
+.tota-amount{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 200px;
+}
